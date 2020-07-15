@@ -1,0 +1,24 @@
+{
+  "name": "vue-adsorb-ball",
+  "version": "1.0.0",
+  "description": "一个基于vue 2.x 的吸附式小球按钮",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplaycodex/vue-adsorb-ball.git"
+  },
+  "keywords": [
+    "吸附式按钮",
+    "吸附式小球",
+    "吸附式"
+  ],
+  "author": "iplaycodex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iplaycodex/vue-adsorb-ball/issues"
+  },
+  "homepage": "https://github.com/iplaycodex/vue-adsorb-ball#readme"
+}
